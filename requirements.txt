@@ -1,6 +1,7 @@
 numpy
 scipy
 pandas
+matplotlib
 wbdata
 missingpy
 pymongo
