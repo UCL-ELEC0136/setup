@@ -10,5 +10,5 @@ pymongo
 dnspython
 jupyter
 jupyterlab
-pystan=2.18.0.0
+pystan==2.18.0.0
 fbprophet
