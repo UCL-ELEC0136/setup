@@ -1,6 +1,7 @@
 numpy
 scipy
 pandas
+scikit-learn
 matplotlib
 seaborn
 wbdata
@@ -9,3 +10,5 @@ pymongo
 dnspython
 jupyter
 jupyterlab
+pystan=2.18.0.0
+fbprophet
