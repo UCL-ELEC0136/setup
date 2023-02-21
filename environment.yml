@@ -3,3 +3,18 @@ name: daps
 dependencies:
   - python=3.7
   - pip
+  - pip:
+    numpy
+    scipy
+    pandas
+    scikit-learn
+    matplotlib
+    seaborn
+    wbdata
+    missingpy
+    pymongo
+    dnspython
+    jupyter
+    jupyterlab
+    pystan==2.18.0.0
+    fbprophet
