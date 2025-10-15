@@ -1,6 +1,7 @@
 name: daps
 
 dependencies:
+  - mysql
   - python=3.11
   - pip
   - pip:
